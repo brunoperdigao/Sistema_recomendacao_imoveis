@@ -10,7 +10,7 @@ Foram utilizadas técnicas de transformação dos dados, criação de datasets, 
 
 
 
-# Real state recomendation system
+# Real state recommendation system
 
 This is a Data Science project that uses PySpark to create prediction and clustering models in real estate analysis.
 The project idea and data were provided by Alura as part of the [Challenge Data Science 2nd Edition](https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br).
